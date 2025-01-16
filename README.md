@@ -1,4 +1,4 @@
-Hi folks👋, I'm Prashant tomar, a passionate developer with expertising in Web Development ,Python, JavaScript. I love building innovative projects and collaborating with others."
+Hi folks👋, I'm Prashant tomar, a passionate developer Focusing in Web Development and Python development .I love building innovative projects and collaborating with others."
 
 - 👋 Hi, I’m @prashanttomar
 - 👀 I’m interested in python development...
